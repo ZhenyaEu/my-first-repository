@@ -4,3 +4,5 @@ All I've got are screams inside
 But somehow they come out in a smile
 
 for commit 1
+
+for commit 2
